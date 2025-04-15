@@ -1,0 +1,89 @@
+			body		{	background-color:lightblue;}
+			header		{	width:100%;
+							Height:12ex;
+							background-color:white;
+							
+							}
+			.lang		{	color:grey;
+							position:relative;		
+							top:3ex;
+							float:right;}
+							
+			.cont	{float:right;
+						width:40%;}				
+			.UserName	{	color:red;
+							float:right;}
+							
+							
+			.logo_img	{	position:relative;
+							left: 5ex;
+							
+						}
+			.container	{	
+							position:relative;
+							left:15%;
+							top:5%;
+							width:800px;
+							height:400px;
+							
+						}
+			.sec_adv	{	background-image:url(../img/warehouse.jpg);
+							background-repeat:no-repeat;
+							background-color:yellow;
+							background-position: center center;
+							border-style: ridge;
+							border-color:navyblue;
+							height:100%;
+							width:60%;
+							float:left;
+
+							}
+			.sec_adv2	{	
+							background-color:yellow;
+							background-position: center center;
+							border-style: ridge;
+							border-color:navyblue;
+							height:80%;
+							width:60%;
+							float:left;
+							
+
+							}						
+									
+							
+			.sec_signin		{	
+							
+							background-color:white;
+							border-style: ridge;
+							border-color:navyblue;
+							height:60%;
+							width:31%;							
+							float:right;
+							}			
+
+			table			{	
+								clear:both;
+								background-color:lightblue;
+								border-collapse:collapse;
+								border: 1px solid gray;
+							}
+			caption				{padding:5ex;}
+			tr:nth-child(odd){
+								background-color:white;
+							}
+			footer			{	position: relative;
+							bottom:-20ex;
+							text-align:center;
+							
+							}
+			.myform			{	
+								background-color:lightgreen;
+								border-style: ridge;
+								text-align:center;
+								padding:5px;
+								width:30%;
+								height:auto;
+								float:right;
+								}
+
+						
